@@ -96,5 +96,5 @@ python3 bot.py
 • /broadcast - to broadcast a message to Ajax users
 ```
 
-<b>ᴅᴇᴠᴇʟᴏᴘᴇʀ ›› [ᴀᴀᴅʜɪ](https://telegram.dog/RudradityaDevaraj) | [ɪɴsᴛᴀɢʀᴀᴍ](https://www.instagram.com/rudra_adityadevaraj/) | [ɢɪᴛʜᴜʙ](GitHub.com/BollywoodMedia)</b>                                                                                                                                                                                    
+<b>ᴅᴇᴠᴇʟᴏᴘᴇʀ ›› [ᴀᴀᴅʜɪ](https://telegram.dog/RudradityaDevaraj) | [ɪɴsᴛᴀɢʀᴀᴍ](https://www.instagram.com/rudra_adityadevaraj/) | [ɢɪᴛʜᴜʙ](GitHub.com/AmraRid)</b>                                                                                                                                                                                    
 <b>ᴄʜᴀɴɴᴇʟ ›› [ᴍᴡ ᴜᴘᴅᴀᴛᴇᴢ](https://t.me/CineHubsSupport)</b>
